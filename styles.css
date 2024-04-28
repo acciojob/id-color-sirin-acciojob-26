@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+#yellow{
+	border-width:1px;
+	border-color:green;
+}
+/*  your css code here. If applicable */
+#red{
+	border-width:1px;
+	border-color:black;
+}
+/*  your css code here. If applicable */
+#green{
+	border-width:1px;
+	border-color:yellow;
+}
